@@ -1,0 +1,23 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
+	"colored_folder_glyphs": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeClang",
+		"SFTP"
+	],
+	"indent_to_bracket": true,
+	"margin": -8,
+	"rulers":
+	[
+		80
+	],
+	"smart_indent": true,
+	"tab_size": 4,
+	"theme": "Nil.sublime-theme",
+	"update_check": false,
+	"word_wrap": true
+}
