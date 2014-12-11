@@ -1,11 +1,17 @@
 *.pyc
-c2u_tmp/
-encoding_cache.json
-Package Control.ca-list
+BracketHighlighter/
+ConvertToUTF8/
 Package Control.ca-bundle
+Package Control.ca-certs/
+Package Control.ca-list
+Package Control.cache/
 Package Control.last-run
 Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
 Package Control.user-ca-bundle
-Package Control.ca-certs/
-Package Control.cache/
+PlainTasks/
+SublimeCodeIntel/
+bz2/
+c2u_tmp/
+encoding_cache.json
+ssl-linux/

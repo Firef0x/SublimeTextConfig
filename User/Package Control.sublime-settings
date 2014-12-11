@@ -1,13 +1,26 @@
 {
 	"auto_upgrade_last_run": null,
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2",
+		"ssl-linux"
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
 		"Clipboard History",
-		"Emmet",
-		"Javascript Beautify",
+		"ConvertToUTF8",
+		"GitGutter",
+		"MarkdownEditing",
 		"Package Control",
+		"PKGBUILD",
 		"PlainTasks",
-		"Theme - Nil"
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Nil",
+		"VimL"
 	]
 }
