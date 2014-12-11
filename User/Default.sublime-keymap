@@ -4,5 +4,7 @@
 	{ "keys": ["ctrl+f12"], "command": "auto_proc", "args":{"ref":"gotosym"} },
 
 	{ "keys": ["ctrl+shift+d"], "command": "toggle_trailing_spaces" },
-	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }
+	{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" },
+
+	{ "keys": ["j", "k"], "command": "_enter_normal_mode", "args": {"mode": "mode_insert"}, "context": [{"key": "vi_insert_mode_aware"}] }
 ]
