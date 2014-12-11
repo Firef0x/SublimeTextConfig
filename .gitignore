@@ -1,5 +1,6 @@
 *.pyc
 BracketHighlighter/
+Codecs33/
 ConvertToUTF8/
 Package Control.ca-bundle
 Package Control.ca-certs/
