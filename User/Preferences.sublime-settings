@@ -54,9 +54,9 @@
 	"ignored_packages":
 	[
 		"SFTP",
+		"Vintage",
 		"Markdown",
-		"SublimeClang",
-		"Vintage"
+		"SublimeClang"
 	],
 	"indent_to_bracket": true,
 	"margin": -8,
