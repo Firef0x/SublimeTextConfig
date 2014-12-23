@@ -1,3 +1,4 @@
+*.cache*
 *.pyc
 BracketHighlighter/
 Codecs33/
@@ -5,7 +6,6 @@ ConvertToUTF8/
 Package Control.ca-bundle
 Package Control.ca-certs/
 Package Control.ca-list
-Package Control.cache/
 Package Control.last-run
 Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
