@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,14 +8,13 @@
 	[
 		"Alignment",
 		"All Autocomplete",
+		"AutoFileName",
 		"BracketHighlighter",
-		"Clipboard History",
 		"Codecs33",
 		"ConvertToUTF8",
 		"GitGutter",
 		"MarkdownEditing",
 		"Package Control",
-		"PKGBUILD",
 		"PlainTasks",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",

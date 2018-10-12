@@ -1,8 +1,5 @@
 *.cache*
 *.pyc
-BracketHighlighter/
-Codecs33/
-ConvertToUTF8/
 Package Control.ca-bundle
 Package Control.ca-certs/
 Package Control.ca-list
@@ -10,9 +7,22 @@ Package Control.last-run
 Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
 Package Control.user-ca-bundle
+encoding_cache.json
+.logs/
+BracketHighlighter/
+Codecs33/
+ConvertToUTF8/
 PlainTasks/
 SublimeCodeIntel/
+backrefs/
 bz2/
 c2u_tmp/
-encoding_cache.json
+dateutil/
+markupsafe/
+mdpopups/
+pygments/
+pymdownx/
+python-jinja2/
+python-markdown/
+pyyaml/
 ssl-linux/

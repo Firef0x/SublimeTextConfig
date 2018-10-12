@@ -18,7 +18,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Theme - Nil/Tubnil.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"colored_folder_glyphs": true,
 	"file_exclude_patterns":
 	[
@@ -53,8 +53,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"SFTP",
 		"Markdown",
+		"SFTP",
 		"SublimeClang",
 		"Vintage"
 	],
